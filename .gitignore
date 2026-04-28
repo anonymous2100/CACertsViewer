@@ -1,0 +1,40 @@
+# Build output
+/target/
+
+# Maven wrapper backup files
+.mvn/wrapper/maven-wrapper.jar
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+hs_err_pid*
+replay_pid*
+
+# Java packaged artifacts
+*.jar
+*.war
+*.ear
+
+# jpackage output (Windows app image)
+/dist/
+
+# Runtime-generated app data
+.cacertsviewer-backups/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+doc
